@@ -1,7 +1,7 @@
 I have a handful of hard to find software titles that I'll link to here. I'll also link to some other interesting places.
 
 Software
-Arqulphos - https://archive.org/details/Arquelphos
+* Arqulphos - https://archive.org/details/Arquelphos
 Game Jang+ - https://archive.org/details/game-jang-boot
 
 English Translations

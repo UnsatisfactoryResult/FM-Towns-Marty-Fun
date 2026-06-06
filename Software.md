@@ -3,6 +3,7 @@ I have a handful of hard to find software titles that I'll link to here. I'll al
 Software
 * Arqulphos - https://archive.org/details/Arquelphos
 * Game Jang+ - https://archive.org/details/game-jang-boot
+* High School War - https://archive.org/details/high-school-war
 
 English Translations
 * Alltynex - https://github.com/DerekPascarella/Alltynex-EnglishPatchFMTowns

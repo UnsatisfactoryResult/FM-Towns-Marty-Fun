@@ -4,6 +4,8 @@ Software
 * Arqulphos - https://archive.org/details/Arquelphos
 * Game Jang+ - https://archive.org/details/game-jang-boot
 * High School War - https://archive.org/details/high-school-war
+* Image II - https://archive.org/details/fmt-image-ii
+* Pleria - The Royal Emblem - https://archive.org/details/fmt-pleria
 
 English Translations
 * Alltynex - https://github.com/DerekPascarella/Alltynex-EnglishPatchFMTowns
